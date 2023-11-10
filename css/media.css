@@ -1,0 +1,1986 @@
+@media  (max-width: 449.98px) {
+    .btn:active { 
+        transform: scale(0.98); 
+        /* Scaling button to 0.98 to its original size */ 
+        box-shadow: 1px 1px 11px 1px rgba(0, 0, 0, 0.24); 
+        /* Lowering the shadow */ 
+    } 
+    .banner1{
+        height: 55.55vw;
+        width: 100%;
+    }
+    .logo img {
+        width: 6.55vw;
+        margin-left: 2.86vw;
+        margin-top: 3.47vw;
+    }
+    .nav{
+        margin-left: -3vw;
+    }
+    .nav-link {
+        padding: 1.7rem 1rem;
+        font-size: 1.45vw;
+        padding-top: 6vw;
+        PADDING-LEFT: 0REM;
+    }
+    .nav-link:hover {
+        font-size: 1.45vw;
+        transition: 5.0694vw ;
+    }
+    .banner1-text {
+        margin-left: 2.86vw;
+    }
+    .banner1-text h1 {
+        margin-right: -5vw;
+        margin-top: 1.638vw;
+        font-size: 4.722vw;
+        letter-spacing: 0.3472vw;
+    }
+    
+    .banner1-text p {
+        margin-top: 3.083vw;
+        font-size: 1.5278vw;
+        letter-spacing: 0.1389vw;
+    }
+    
+    .banner1-text .btn {
+        letter-spacing: 0;
+        margin-top: -3.84722vw;
+        width: 20.28vw;
+        padding: 0.79vw .75rem;
+        font-size: 1.67vw;
+        font-weight: 700;
+        padding-bottom: 0.235vw;
+    }
+    .banner2 {
+        margin-top: -2.01389vw;
+        height: 57.013vw;
+        width: 100%;
+    }
+    .banner2-text h1 {
+        padding-top: 7.847vw;
+        font-size: 3.8194vw;
+        letter-spacing: 0.2083vw;
+    }
+    .banner2-text p {
+        margin-top: -2vw;
+        padding-top: 0;
+        font-size: 1.583vw;
+        letter-spacing: 0.0694vw;
+        font-weight: 500;
+    }
+    .banner2-slide {
+        padding: 1.5278vw 9.0278vw;
+        width: 100%;
+        padding-top: 0px;
+        margin-top: -4vw;
+    }
+    .slide-img{
+        padding-top: 2.78vw;
+    }
+    .slide-img img {
+        height: 17.67vw;
+        width: 17.67vw;
+        border-radius: 50%;
+    }
+    .slide-text h1 {
+        padding-top: 1.7361vw;
+        font-size: 2.5vw;
+    }
+    .slide-text p {
+        margin-top: -1.2vw;
+        padding-top: 0;
+        font-size: 1.6vw;
+        line-height: 1.7361vw;
+    }
+    .banner3 {
+        margin-top: -4.51389vw;
+        height: 59.861vw;
+        width: 100%;
+    }
+    .banner3-img img {
+        height: 32.29167vw;
+        width: 32.29167vw;
+        margin-top: 50%;
+        transform: translateY(-13%);
+    }
+    .banner3-text h1 {
+        margin-top: 20.90278vw;
+        font-size: 4.722vw;
+        letter-spacing: 0.34722vw;
+
+    }
+    .banner3-text p {
+        padding-right: 6.055vw;
+        margin-top: 2.083vw;
+        font-size: 1.5278vw;
+        letter-spacing: 0.1389vw;
+    }
+    
+    .banner3-text .btn {
+        letter-spacing: 0.06vw;
+        margin-top: -9.84722vw;
+        width: 20.28vw;
+        padding: 0.7vw 0.5rem;
+        padding-bottom: 0.5vw;
+        font-size: 1.67vw;
+        font-weight: 700;
+    }
+    .banner4 {
+        margin-top: -5.486vw;
+        height: 60.625vw;
+        width: 100%;
+    }
+    .banner4-text h1 {
+        padding-top: 12.4305vw;
+        font-size: 3.819vw;
+        letter-spacing: 0.20833vw;
+    }
+    .banner4-text p {
+        padding-top: 0;
+        font-size: 1.833vw;
+        letter-spacing: 0;
+        margin-top: -1vw;
+    }
+    .statistics {
+        padding: 3vw;
+        padding-top: 0vw;
+    }
+    .circle{
+        height: 19.75vw;
+        width: 19.75vw;
+        border: 1px solid #b75a74;
+    }
+    .stat-number {
+        padding-left: 0.48611vw;
+        font-size: 4.44vw;
+        font-weight: 700;
+        letter-spacing: 0.278vw;
+    }
+    .stat-text {
+        font-size: 2vw;
+        margin: -4.9vw;
+    }
+    .stat-text2 {
+        font-size: 2.611vw;
+        margin: -5vw;
+        letter-spacing: 0.1389vw;
+    }
+    .stat-text3 {
+        font-size: 2vw;
+        margin: -4.855vw;
+        line-height: 2vw;
+    }
+    .banner5 {
+        margin-top: -5.20833vw;
+        height: 60.34722vw;
+        width: 100%;
+    }
+    
+    .banner5-img img {
+        height: 32.29167vw;
+        width: 32.29167vw;
+    }
+    .banner5-text{
+        margin-left: 8.33vw;
+    }
+    .banner5-text h1 {
+        margin-top: 21.5278vw;
+        font-size: 4.722vw;
+        letter-spacing: 0.34722vw;
+        margin-right: -5vw;
+    }
+    .banner5-text p {
+        padding-right: 1.875vw;
+        margin-top: 3.0833vw;
+        font-size: 1.52778vw;
+        letter-spacing: 0.13889vw;
+        font-weight: 300;
+    }
+    
+    .banner5-text .btn {
+        letter-spacing: 0.06vw;
+        margin-top: -7vw;
+        width: 20.28vw;
+        padding: 0.8vw 0.5rem;
+        padding-bottom: 0.5vw;
+        font-size: 1.67vw;
+        font-weight: 700;
+    }
+    .banner6 {
+        margin-top: -7.6389vw;
+        height: 63.1944vw;
+        width: 100%;
+    }
+    .banner6-text p {
+        margin-left: 11.8055vw;
+        font-size: 2.0833vw;
+        letter-spacing: 0.1389vw;
+    }
+    .banner6-signature {
+        padding-top: 1.3194vw;
+        margin-left: 11.8055vw;
+        font-size: 2.15278vw;
+    }
+    .banner7 {
+        margin-top: -3.75vw;
+        height: 65.833vw;
+        width: 100%;
+    }
+    .banner7-text h1 {
+        padding-top: 17.3611vw;
+        padding-bottom: 0.6944vw;
+        font-size: 4.5vw;
+        letter-spacing: 0.1vw;
+    }
+    .banner7-text p {
+        padding-top: 0.6944vw;
+        font-size: 2.01389vw;
+        letter-spacing: 0.06944vw;
+    }
+    
+    .frm {
+        margin-top: 4.1667vw;
+        width: 53.81944vw;
+    }
+    .input-group .form-control {
+        height: 4.51389vw;
+        padding: .375rem .75rem;
+        font-size: 2vw;
+        border-radius: 2.0833vw;
+    }
+    .subscribe-batn {
+        height: 4.51389vw;
+        width: 15.2778vw;
+        border-radius: 6.875vw;
+        margin-left: 41.667vw;
+        padding-top: 0.76389vw;
+    }
+    .subscribe-batn p {
+        font-size: 1.5278vw;
+        padding-top: 0.34722vw;
+        font-weight: 700;
+        letter-spacing: 0.2vw;
+    }
+    .banner8 {
+        margin-top: -8.875vw;
+        height: 48.611vw;
+        width: 100%;
+    }
+    
+    .footer .row {
+        padding: 10.9722vw 0 0 0;
+    }
+    .footer-text {
+        padding-right: 30vw;
+        margin-left: 6.944vw;
+    }
+    .footer-text h3 {
+        font-size: 2.56944vw;
+        margin-bottom: 2.778vw;
+    }
+    .footer-text p {
+        font-size: 1.44vw;
+        margin-bottom: 2.0833vw;
+        padding-right: 3.4722vw;
+    }
+    .about {
+        color: #ffff;
+        margin-left: 7vw;
+    }
+    .about h3 {
+        margin-top: 0.0694vw;
+        margin-bottom: 1.3055vw;
+        font-size: 1.944vw;
+    }
+    .about ol{
+        line-height: 2.29167vw;
+        font-size: 1.3194vw;
+    }
+    .service {
+        margin-left: -3vw;
+        color: #ffff;
+    }
+    .service h3{
+        margin-top: 0.0694vw;
+        margin-bottom: 1.3055vw;
+        font-size: 1.944vw;
+    }
+    .service ol{
+        line-height: 2.29167vw;
+        font-size: 1.31944vw;
+    }
+    .other {
+        margin-left: -15vw;
+        color: #ffff;
+    }
+    .other h3{
+        margin-top: 0.0694vw;
+        margin-bottom: 1.3055vw;
+        font-size: 1.944vw;
+    }
+    .other ol{
+        line-height: 2.29167vw;
+        font-size: 1.31944vw;
+    }
+    .icon21 {
+        margin-top: 10vw;
+        margin-left: 65vw;
+        border-top-right-radius: 2em 5em;
+    }
+    .icon21 img{
+        width: 2.5vw;
+    }
+    .icon1{
+        margin-right: 7px;
+    }
+    .icon2{
+        margin-right: 7px;
+    }
+    .icon3{
+        margin-right: 7px;
+    }
+
+
+
+  }
+@media (min-width: 450px) and (max-width: 575.98px) {
+    .btn:active { 
+        transform: scale(0.98); 
+        /* Scaling button to 0.98 to its original size */ 
+        box-shadow: 1px 1px 11px 1px rgba(0, 0, 0, 0.24); 
+        /* Lowering the shadow */ 
+    } 
+    .banner1{
+        height: 55.55vw;
+        width: 100%;
+    }
+    .logo img {
+        width: 6.55vw;
+        margin-left: 2.86vw;
+        margin-top: 3.47vw;
+    }
+    .nav{
+        margin-left: -3vw;
+    }
+    .nav-link {
+        padding: 1.7rem 1.2rem;
+        font-size: 1.3194vw;
+        padding-top: 5vw;
+        PADDING-LEFT: 0REM;
+    }
+    .nav-link:hover {
+        font-size: 1.3194vw;
+        transition: 5.0694vw ;
+    }
+    .banner1-text {
+        margin-left: 2.86vw;
+    }
+    .banner1-text h1 {
+        margin-right: -5vw;
+        margin-top: 5.638vw;
+        font-size: 4.722vw;
+        letter-spacing: 0.3472vw;
+    }
+    
+    .banner1-text p {
+        margin-top: 3.083vw;
+        font-size: 1.5278vw;
+        letter-spacing: 0.1389vw;
+    }
+    
+    .banner1-text .btn {
+        letter-spacing: 1px;
+        margin-top: 0.15278vw;
+        width: 20.28vw;
+        padding: 0.7vw .75rem;
+        font-size: 1.67vw;
+        font-weight: 700;
+    }
+    .banner2 {
+        margin-top: -2.01389vw;
+        height: 57.013vw;
+        width: 100%;
+    }
+    .banner2-text h1 {
+        padding-top: 7.847vw;
+        font-size: 3.8194vw;
+        letter-spacing: 0.2083vw;
+    }
+    .banner2-text p {
+        padding-top: 0;
+        font-size: 1.583vw;
+        letter-spacing: 0.0694vw;
+        font-weight: 500;
+    }
+    .banner2-slide {
+        padding: 1.5278vw 9.0278vw;
+        width: 100%;
+        padding-top: 0px;
+        margin-top: -2vw;
+    }
+    .slide-img{
+        padding-top: 2.78vw;
+    }
+    .slide-img img{
+        height: 16.67vw;
+        width: 16.67vw;
+        border-radius: 50%;
+    }
+    .slide-text h1 {
+        padding-top: 1.7361vw;
+        font-size: 2.055vw;
+    }
+    .slide-text p {
+        margin-top: -0.5vw;
+        padding-top: 0;
+        font-size: 1.5vw;
+        line-height: 1.7361vw;
+    }
+    .banner3 {
+        margin-top: -4.51389vw;
+        height: 59.861vw;
+        width: 100%;
+    }
+    .banner3-img img {
+        height: 32.29167vw;
+        width: 32.29167vw;
+    }
+    .banner3-text h1 {
+        margin-top: 20.90278vw;
+        font-size: 4.722vw;
+        letter-spacing: 0.34722vw;
+    }
+    .banner3-text p {
+        padding-right: 6.055vw;
+        margin-top: 2.083vw;
+        font-size: 1.5278vw;
+        letter-spacing: 0.1389vw;
+    }
+    
+    .banner3-text .btn {
+        letter-spacing: 0.06vw;
+        margin-top: 2.15278vw;
+        width: 20.28vw;
+        padding: 0.7vw .75rem;
+        font-size: 1.67vw;
+        font-weight: 700;
+    }
+    .banner4 {
+        margin-top: -5.486vw;
+        height: 60.625vw;
+        width: 100%;
+    }
+    .banner4-text h1 {
+        padding-top: 12.4305vw;
+        font-size: 3.819vw;
+        letter-spacing: 0.20833vw;
+    }
+    .banner4-text p {
+        padding-top: 0;
+        font-size: 1.833vw;
+        letter-spacing: 0;
+    }
+    .statistics {
+        padding: 4.861vw;
+        padding-top: 2vw;
+    }
+    .circle{
+        height: 19.75vw;
+        width: 19.75vw;
+        border: 2px solid #b75a74;
+    }
+    .stat-number {
+        padding-left: 0.48611vw;
+        font-size: 4.44vw;
+        font-weight: 700;
+        letter-spacing: 0.278vw;
+    }
+    .stat-text {
+        font-size: 2vw;
+        margin: -3.9vw;
+    }
+    .stat-text2 {
+        font-size: 2.611vw;
+        margin: -3.7vw;
+        letter-spacing: 0.1389vw;
+    }
+    .stat-text3 {
+        font-size: 2vw;
+        margin: -3.855vw;
+        line-height: 2vw;
+    }
+    .banner5 {
+        margin-top: -5.20833vw;
+        height: 60.34722vw;
+        width: 100%;
+    }
+    
+    .banner5-img img {
+        height: 32.29167vw;
+        width: 32.29167vw;
+    }
+    .banner5-text{
+        margin-left: 8.33vw;
+    }
+    .banner5-text h1 {
+        margin-top: 21.5278vw;
+        font-size: 4.722vw;
+        letter-spacing: 0.34722vw;
+    }
+    .banner5-text p {
+        padding-right: 1.875vw;
+        margin-top: 3.0833vw;
+        font-size: 1.52778vw;
+        letter-spacing: 0.13889vw;
+        font-weight: 300;
+    }
+    
+    .banner5-text .btn {
+        letter-spacing: 0.06vw;
+        margin-top: 0;
+        width: 20.28vw;
+        padding: 0.7vw .75rem;
+        font-size: 1.67vw;
+        font-weight: 700;
+    }
+    .banner6 {
+        margin-top: -7.6389vw;
+        height: 63.1944vw;
+        width: 100%;
+    }
+    .banner6-text p {
+        margin-left: 11.8055vw;
+        font-size: 2.0833vw;
+        letter-spacing: 0.1389vw;
+    }
+    .banner6-signature {
+        padding-top: 1.3194vw;
+        margin-left: 11.8055vw;
+        font-size: 2.15278vw;
+    }
+    .banner7 {
+        margin-top: -3.75vw;
+        height: 65.833vw;
+        width: 100%;
+    }
+    .banner7-text h1 {
+        padding-top: 17.3611vw;
+        padding-bottom: 0.6944vw;
+        font-size: 4.5vw;
+        letter-spacing: 0.1vw;
+    }
+    .banner7-text p {
+        padding-top: 0.6944vw;
+        font-size: 2.01389vw;
+        letter-spacing: 0.06944vw;
+    }
+    
+    .frm {
+        margin-top: 4.1667vw;
+        width: 53.81944vw;
+    }
+    .input-group .form-control {
+        height: 4.51389vw;
+        padding: .375rem .75rem;
+        font-size: 1.8vw;
+        border-radius: 2.0833vw;
+    }
+    .subscribe-batn {
+        height: 4.51389vw;
+        width: 15.2778vw;
+        border-radius: 6.875vw;
+        margin-left: 41.667vw;
+        padding-top: 0.76389vw;
+    }
+    .subscribe-batn p {
+        font-size: 1.5278vw;
+        padding-top: 0.34722vw;
+    }
+    .banner8 {
+        margin-top: -8.875vw;
+        height: 48.611vw;
+        width: 100%;
+    }
+    
+    .footer .row{
+        padding: 15.9722vw 0 0 0;
+    }
+    .footer-text {
+        padding-right: 30vw;
+        margin-left: 6.944vw;
+    }
+    .footer-text h3 {
+        font-size: 2.56944vw;
+        margin-bottom: 2.778vw;
+    }
+    .footer-text p {
+        font-size: 1.44vw;
+        margin-bottom: 2.0833vw;
+        padding-right: 3.4722vw;
+    }
+    .about {
+        color: #ffff;
+        margin-left: 7vw;
+    }
+    .about h3 {
+        margin-top: 0.0694vw;
+        margin-bottom: 1.3055vw;
+        font-size: 1.944vw;
+    }
+    .about ol{
+        line-height: 2.29167vw;
+        font-size: 1.3194vw;
+    }
+    .service {
+        margin-left: -3vw;
+        color: #ffff;
+    }
+    .service h3{
+        margin-top: 0.0694vw;
+        margin-bottom: 1.3055vw;
+        font-size: 1.944vw;
+    }
+    .service ol{
+        line-height: 2.29167vw;
+        font-size: 1.31944vw;
+    }
+    .other {
+        margin-left: -15vw;
+        color: #ffff;
+    }
+    .other h3{
+        margin-top: 0.0694vw;
+        margin-bottom: 1.3055vw;
+        font-size: 1.944vw;
+    }
+    .other ol{
+        line-height: 2.29167vw;
+        font-size: 1.31944vw;
+    }
+    .icon21 {
+        margin-top: 10vw;
+        margin-left: 65vw;
+        border-top-right-radius: 2em 5em;
+    }
+    .icon21 img{
+        width: 2.5vw;
+    }
+    .icon1{
+        margin-right: 7px;
+    }
+    .icon2{
+        margin-right: 7px;
+    }
+    .icon3{
+        margin-right: 7px;
+    }
+    .banner8 {
+        margin-top: -8.875vw;
+        height: 50.611vw;
+        width: 100%;
+    }
+    .banner5-text h1 {
+        margin-top: 21.5278vw;
+        font-size: 4.722vw;
+        letter-spacing: 0.34722vw;
+        margin-right: -2vw;
+    }
+
+
+  }
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .btn:active { 
+        transform: scale(0.98); 
+        /* Scaling button to 0.98 to its original size */ 
+        box-shadow: 1px 1px 11px 1px rgba(0, 0, 0, 0.24); 
+        /* Lowering the shadow */ 
+    } 
+    .banner1{
+        height: 55.55vw;
+        width: 100%;
+    }
+    .logo img {
+        width: 6.55vw;
+        margin-left: 4.86vw;
+        margin-top: 3.47vw;
+    }
+    .nav-link {
+        padding: 1.7rem 1.2rem;
+        font-size: 1.3194vw;
+        padding-top: 5vw;
+        PADDING-LEFT: 0REM;
+    }
+    .nav-link:hover {
+        font-size: 1.3194vw;
+        transition: 5.0694vw ;
+    }
+    .banner1-text{
+        margin-left: 4.86vw;
+    }
+    .banner1-text h1 {
+        margin-right: -5vw;
+        margin-top: 7.638vw;
+        font-size: 4.722vw;
+        letter-spacing: 0.3472vw;
+    }
+    
+    .banner1-text p{
+        margin-top: 2.083vw;
+        font-size: 1.5278vw;
+        letter-spacing: 0.1389vw;
+    }
+    
+    .banner1-text .btn {
+        letter-spacing: 1px;
+        margin-top: 2.15278vw;
+        width: 20.28vw;
+        padding: 0.7vw .75rem;
+        font-size: 1.67vw;
+        font-weight: 700;
+    }
+    
+    .banner2 {
+        margin-top: -2.01389vw;
+        height: 57.013vw;
+        width: 100%;
+    }
+    .banner2-text h1 {
+        padding-top: 7.847vw;
+        font-size: 3.8194vw;
+        letter-spacing: 0.2083vw;
+    }
+    .banner2-text p {
+        padding-top: 0.4167vw;
+        font-size: 1.4583vw;
+        letter-spacing: 0.0694vw;
+    }
+    .banner2-slide {
+        padding: 1.5278vw 9.0278vw;
+        width: 100%;
+    }
+    .slide-img{
+        padding-top: 2.78vw;
+    }
+    .slide-img img{
+        height: 16.67vw;
+        width: 16.67vw;
+        border-radius: 50%;
+    }
+    .slide-text h1 {
+        padding-top: 1.7361vw;
+        font-size: 1.8055vw;
+    }
+    .slide-text p {
+        padding-top: 0;
+        font-size: 1.3194vw;
+        line-height: 1.7361vw;
+    }
+    .banner3 {
+        margin-top: -4.51389vw;
+        height: 59.861vw;
+        width: 100%;
+    }
+    .banner3-img img {
+        height: 32.29167vw;
+        width: 32.29167vw;
+    }
+    .banner3-text h1 {
+        margin-top: 20.90278vw;
+        font-size: 4.722vw;
+        letter-spacing: 0.34722vw;
+    }
+    .banner3-text p {
+        padding-right: 6.055vw;
+        margin-top: 2.083vw;
+        font-size: 1.5278vw;
+        letter-spacing: 0.1389vw;
+    }
+    
+    .banner3-text .btn {
+        letter-spacing: 1px;
+        margin-top: 2.15278vw;
+        width: 20.28vw;
+        padding: 0.7vw .75rem;
+        font-size: 1.67vw;
+        font-weight: 700;
+    }
+    .banner4 {
+        margin-top: -5.486vw;
+        height: 60.625vw;
+        width: 100%;
+    }
+    .banner4-text h1 {
+        padding-top: 12.4305vw;
+        font-size: 3.819vw;
+        letter-spacing: 0.20833vw;
+    }
+    .banner4-text p {
+        padding-top: 0.41667vw;
+        font-size: 1.45833vw;
+        letter-spacing: 0.0694vw;
+    }
+    .statistics {
+        padding: 4.861vw;
+    }
+    .circle{
+        height: 19.75vw;
+        width: 19.75vw;
+        border: 2px solid #b75a74;
+    }
+    .stat-number {
+        padding-left: 0.48611vw;
+        font-size: 4.44vw;
+        font-weight: 700;
+        letter-spacing: 0.278vw;
+    }
+    .stat-text {
+        font-size: 2vw;
+        margin: -1.90vw;
+    }
+    .stat-text2 {
+        font-size: 2.611vw;
+        margin: -2.667vw;
+        letter-spacing: 0.1389vw;
+    }
+    .stat-text3 {
+        font-size: 2vw;
+        margin: -1.855vw;
+        line-height: 2vw;
+    }
+    .banner5 {
+        margin-top: -5.20833vw;
+        height: 60.34722vw;
+        width: 100%;
+    }
+    
+    .banner5-img img {
+        height: 32.29167vw;
+        width: 32.29167vw;
+    }
+    .banner5-text{
+        margin-left: 8.33vw;
+    }
+    .banner5-text h1 {
+        margin-top: 21.5278vw;
+        font-size: 4.722vw;
+        letter-spacing: 0.34722vw;
+    }
+    .banner5-text p {
+        padding-right: 1.875vw;
+        margin-top: 2.0833vw;
+        font-size: 1.52778vw;
+        letter-spacing: 0.13889vw;
+    }
+    
+    .banner5-text .btn {
+        letter-spacing: 1px;
+        margin-top: 2.15278vw;
+        width: 20.28vw;
+        padding: 0.7vw .75rem;
+        font-size: 1.67vw;
+        font-weight: 700;
+    }
+    .banner6 {
+        margin-top: -7.6389vw;
+        height: 63.1944vw;
+        width: 100%;
+    }
+    .banner6-text p {
+        margin-left: 11.8055vw;
+        font-size: 2.0833vw;
+        letter-spacing: 0.1389vw;
+    }
+    .banner6-signature {
+        padding-top: 1.3194vw;
+        margin-left: 11.8055vw;
+        font-size: 2.15278vw;
+    }
+    .banner7 {
+        margin-top: -3.75vw;
+        height: 65.833vw;
+        width: 100%;
+    }
+    .banner7-text h1 {
+        padding-top: 17.3611vw;
+        padding-bottom: 0.6944vw;
+        font-size: 4.5vw;
+        letter-spacing: 0.1vw;
+    }
+    .banner7-text p {
+        padding-top: 0.6944vw;
+        font-size: 2.01389vw;
+        letter-spacing: 0.06944vw;
+    }
+    
+    .frm {
+        margin-top: 4.1667vw;
+        width: 53.81944vw;
+    }
+    .input-group .form-control {
+        height: 4.51389vw;
+        padding: .375rem .75rem;
+        font-size: 1.6vw;
+        border-radius: 2.0833vw;
+    }
+    .subscribe-batn {
+        height: 4.51389vw;
+        width: 15.2778vw;
+        border-radius: 6.875vw;
+        margin-left: 41.667vw;
+        padding-top: 0.76389vw;
+    }
+    .subscribe-batn p {
+        font-size: 1.5278vw;
+        padding-top: 0.34722vw;
+    }
+    .banner8 {
+        margin-top: -8.875vw;
+        height: 48.611vw;
+        width: 100%;
+    }
+    
+    .footer .row{
+        padding: 15.9722vw 0 0 0;
+    }
+    .footer-text{
+        margin-left: 6.944vw;
+    }
+    .footer-text h3 {
+        font-size: 2.56944vw;
+        margin-bottom: 2.778vw;
+    }
+    .footer-text p {
+        font-size: 1.31944vw;
+        margin-bottom: 2.0833vw;
+        padding-right: 3.4722vw;
+    }
+    .about h3 {
+        margin-top: 0.0694vw;
+        margin-bottom: 2.43055vw;
+        font-size: 1.944vw;
+    }
+    .about ol{
+        line-height: 2.29167vw;
+        font-size: 1.3194vw;
+    }
+    .service {
+        margin-left: -2vw;
+        color: #ffff;
+    }
+    .service h3{
+        margin-top: 0.0694vw;
+        margin-bottom: 2.43055vw;
+        font-size: 1.944vw;
+    }
+    .service ol{
+        line-height: 2.29167vw;
+        font-size: 1.31944vw;
+    }
+    .other h3{
+        margin-top: 0.06944vw;
+        margin-bottom: 2.43055vw;
+        font-size: 1.944vw;
+    }
+    .other ol{
+        line-height: 2.29167vw;
+        font-size: 1.31944vw;
+    }
+    .icon21 {
+        border-top-right-radius: 2em 5em;
+    }
+    .icon21 img{
+        width: 2.5vw;
+    }
+    .icon1{
+        margin-right: 7px;
+    }
+    .icon2{
+        margin-right: 7px;
+    }
+    .icon3{
+        margin-right: 7px;
+    }
+
+
+
+  }
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .btn:active { 
+        transform: scale(0.98); 
+        /* Scaling button to 0.98 to its original size */ 
+        box-shadow: 1px 1px 11px 1px rgba(0, 0, 0, 0.24); 
+        /* Lowering the shadow */ 
+    } 
+    .banner1{
+        height: 55.55vw;
+        width: 100%;
+    }
+    .logo img {
+        width: 6.55vw;
+        margin-left: 4.86vw;
+        margin-top: 3.47vw;
+    }
+    .nav-link {
+        padding: 1.7rem 2rem;
+        font-size: 1.3194vw;
+        padding-top: 5vw;
+        PADDING-LEFT: 0REM;
+    }
+    .nav-link:hover {
+        font-size: 1.3194vw;
+        transition: 5.0694vw !important;
+    }
+    .banner1-text{
+        margin-left: 4.86vw;
+    }
+    .banner1-text h1 {
+        margin-top: 7.638vw;
+        font-size: 4.722vw;
+        letter-spacing: 0.3472vw;
+    }
+    
+    .banner1-text p{
+        margin-top: 2.083vw;
+        font-size: 1.5278vw;
+        letter-spacing: 0.1389vw;
+    }
+    
+    .banner1-text .btn {
+        letter-spacing: 1px;
+        margin-top: 2.15278vw;
+        width: 20.28vw;
+        padding: 0.8vw .75rem;
+        font-size: 1.67vw;
+        font-weight: 700;
+    }
+    
+    .banner2 {
+        margin-top: -2.01389vw;
+        height: 57.013vw;
+        width: 100%;
+    }
+    .banner2-text h1 {
+        padding-top: 7.847vw;
+        font-size: 3.8194vw;
+        letter-spacing: 0.2083vw;
+    }
+    .banner2-text p {
+        padding-top: 0.4167vw;
+        font-size: 1.4583vw;
+        letter-spacing: 0.0694vw;
+    }
+    .banner2-slide {
+        padding: 1.5278vw 9.0278vw;
+        width: 100%;
+    }
+    .slide-img{
+        padding-top: 2.78vw;
+    }
+    .slide-img img{
+        height: 16.67vw;
+        width: 16.67vw;
+        border-radius: 50%;
+    }
+    .slide-text h1 {
+        padding-top: 1.7361vw;
+        font-size: 1.8055vw;
+    }
+    .slide-text p {
+        padding-top: 0;
+        font-size: 1.3194vw;
+        line-height: 1.7361vw;
+    }
+    .banner3 {
+        margin-top: -4.51389vw;
+        height: 59.861vw;
+        width: 100%;
+    }
+    .banner3-img img {
+        height: 32.29167vw;
+        width: 32.29167vw;
+    }
+    .banner3-text h1 {
+        margin-top: 20.90278vw;
+        font-size: 4.722vw;
+        letter-spacing: 0.34722vw;
+    }
+    .banner3-text p {
+        padding-right: 6.055vw;
+        margin-top: 2.083vw;
+        font-size: 1.5278vw;
+        letter-spacing: 0.1389vw;
+    }
+    
+    .banner3-text .btn {
+        letter-spacing: 1px;
+        margin-top: 2.15278vw;
+        width: 20.28vw;
+        padding: 0.8vw .75rem;
+        font-size: 1.67vw;
+        font-weight: 700;
+    }
+    .banner4 {
+        margin-top: -5.486vw;
+        height: 60.625vw;
+        width: 100%;
+    }
+    .banner4-text h1 {
+        padding-top: 12.4305vw;
+        font-size: 3.819vw;
+        letter-spacing: 0.20833vw;
+    }
+    .banner4-text p {
+        padding-top: 0.41667vw;
+        font-size: 1.45833vw;
+        letter-spacing: 0.0694vw;
+    }
+    .statistics {
+        padding: 4.861vw;
+    }
+    .circle{
+        height: 18.75vw;
+        width: 18.75vw;
+        border: 2px solid #b75a74;
+    }
+    .stat-number {
+        padding-left: 0.48611vw;
+        font-size: 4.44vw;
+        font-weight: 700;
+        letter-spacing: 0.278vw;
+    }
+    .stat-text {
+        font-size: 2vw;
+        margin: -1.90vw;
+    }
+    .stat-text2 {
+        font-size: 2.611vw;
+        margin: -1.667vw;
+        letter-spacing: 0.1389vw;
+    }
+    .stat-text3 {
+        font-size: 2vw;
+        margin: -1.855vw;
+        line-height: 2vw;
+    }
+    .banner5 {
+        margin-top: -5.20833vw;
+        height: 60.34722vw;
+        width: 100%;
+    }
+    
+    .banner5-img img {
+        height: 32.29167vw;
+        width: 32.29167vw;
+    }
+    .banner5-text{
+        margin-left: 8.33vw;
+    }
+    .banner5-text h1 {
+        margin-top: 21.5278vw;
+        font-size: 4.722vw;
+        letter-spacing: 0.34722vw;
+    }
+    .banner5-text p {
+        padding-right: 1.875vw;
+        margin-top: 2.0833vw;
+        font-size: 1.52778vw;
+        letter-spacing: 0.13889vw;
+    }
+    
+    .banner5-text .btn {
+        letter-spacing: 1px;
+        margin-top: 2.15278vw;
+        width: 20.28vw;
+        padding: 0.8vw .75rem;
+        font-size: 1.67vw;
+        font-weight: 700;
+    }
+    .banner6 {
+        margin-top: -7.6389vw;
+        height: 63.1944vw;
+        width: 100%;
+    }
+    .banner6-text p {
+        margin-left: 11.8055vw;
+        font-size: 2.0833vw;
+        letter-spacing: 0.1389vw;
+    }
+    .banner6-signature {
+        padding-top: 1.3194vw;
+        margin-left: 11.8055vw;
+        font-size: 2.15278vw;
+    }
+    .banner7 {
+        margin-top: -3.75vw;
+        height: 65.833vw;
+        width: 100%;
+    }
+    .banner7-text h1 {
+        padding-top: 17.3611vw;
+        padding-bottom: 0.6944vw;
+        font-size: 4.5vw;
+        letter-spacing: 0.1vw;
+    }
+    .banner7-text p {
+        padding-top: 0.6944vw;
+        font-size: 2.01389vw;
+        letter-spacing: 0.06944vw;
+    }
+    
+    .frm {
+        margin-top: 4.1667vw;
+        width: 53.81944vw;
+    }
+    .input-group .form-control {
+        height: 4.51389vw;
+        padding: .375rem .75rem;
+        font-size: 1.6vw;
+        border-radius: 2.0833vw;
+    }
+    .subscribe-batn {
+        height: 4.51389vw;
+        width: 15.2778vw;
+        border-radius: 6.875vw;
+        margin-left: 41.667vw;
+        padding-top: 0.76389vw;
+    }
+    .subscribe-batn p {
+        font-size: 1.5278vw;
+        padding-top: 0.34722vw;
+    }
+    .banner8 {
+        margin-top: -8.875vw;
+        height: 48.611vw;
+        width: 100%;
+    }
+    
+    .footer .row{
+        padding: 15.9722vw 0 0 0;
+    }
+    .footer-text{
+        margin-left: 6.944vw;
+    }
+    .footer-text h3 {
+        font-size: 2.56944vw;
+        margin-bottom: 2.778vw;
+    }
+    .footer-text p {
+        font-size: 1.31944vw;
+        margin-bottom: 2.0833vw;
+        padding-right: 3.4722vw;
+    }
+    .about h3 {
+        margin-top: 0.0694vw;
+        margin-bottom: 2.43055vw;
+        font-size: 1.944vw;
+    }
+    .about ol{
+        line-height: 2.29167vw;
+        font-size: 1.3194vw;
+    }
+    .service h3{
+        margin-top: 0.0694vw;
+        margin-bottom: 2.43055vw;
+        font-size: 1.944vw;
+    }
+    .service ol{
+        line-height: 2.29167vw;
+        font-size: 1.31944vw;
+    }
+    .other h3{
+        margin-top: 0.06944vw;
+        margin-bottom: 2.43055vw;
+        font-size: 1.944vw;
+    }
+    .other ol{
+        line-height: 2.29167vw;
+        font-size: 1.31944vw;
+    }
+    .icon21 {
+        border-top-right-radius: 2em 5em;
+    }
+    .icon21 img{
+        width: 2.5vw;
+    }
+    .icon1{
+        margin-right: 7px;
+    }
+    .icon2{
+        margin-right: 7px;
+    }
+    .icon3{
+        margin-right: 7px;
+    }
+
+
+
+ }
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    .btn:active { 
+        transform: scale(0.98); 
+        /* Scaling button to 0.98 to its original size */ 
+        box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.24); 
+        /* Lowering the shadow */ 
+    }  
+        .banner1{
+            height: 55.55vw;
+            width: 100%;
+        }
+        .logo img {
+            width: 6.55vw;
+            margin-left: 4.86vw;
+            margin-top: 3.47vw;
+        }
+        .nav-link {
+            padding: 1.7rem 4rem;
+            font-size: 1.3194vw;
+            padding-top: 5vw;
+            PADDING-LEFT: 0REM;
+        }
+        .nav-link:hover {
+            font-size: 1.3194vw;
+            transition: 5.0694vw !important;
+        }
+        .banner1-text{
+            margin-left: 4.86vw;
+        }
+        .banner1-text h1 {
+            margin-top: 7.638vw;
+            font-size: 4.722vw;
+            letter-spacing: 0.3472vw;
+        }
+        
+        .banner1-text p{
+            margin-top: 2.083vw;
+            font-size: 1.5278vw;
+            letter-spacing: 0.1389vw;
+        }
+        
+        .banner1-text .btn {
+            margin-top: 2.15278vw;
+            width: 20.28vw;
+            padding: 0.8vw .75rem;
+            font-size: 1.67vw;
+        }
+        
+        .banner2 {
+            margin-top: -2.01389vw;
+            height: 57.013vw;
+            width: 100%;
+        }
+        .banner2-text h1 {
+            padding-top: 7.847vw;
+            font-size: 3.8194vw;
+            letter-spacing: 0.2083vw;
+        }
+        .banner2-text p {
+            padding-top: 0.4167vw;
+            font-size: 1.4583vw;
+            letter-spacing: 0.0694vw;
+        }
+        .banner2-slide {
+            padding: 1.5278vw 9.0278vw;
+            width: 100%;
+        }
+        .slide-img{
+            padding-top: 2.78vw;
+        }
+        .slide-img img{
+            height: 16.67vw;
+            width: 16.67vw;
+            border-radius: 50%;
+        }
+        .slide-text h1 {
+            padding-top: 1.7361vw;
+            font-size: 1.8055vw;
+        }
+        .slide-text p {
+            padding-top: 0.5555vw;
+            font-size: 1.3194vw;
+            line-height: 1.7361vw;
+        }
+        .banner3 {
+            margin-top: -4.51389vw;
+            height: 59.861vw;
+            width: 100%;
+        }
+        .banner3-img img {
+            height: 32.29167vw;
+            width: 32.29167vw;
+        }
+        .banner3-text h1 {
+            margin-top: 20.90278vw;
+            font-size: 4.722vw;
+            letter-spacing: 0.34722vw;
+        }
+        .banner3-text p {
+            padding-right: 6.055vw;
+            margin-top: 2.083vw;
+            font-size: 1.5278vw;
+            letter-spacing: 0.1389vw;
+        }
+        
+        .banner3-text .btn {
+            margin-top: 2.15278vw;
+            width: 20.28vw;
+            padding: 0.8vw .75rem;
+            font-size: 1.67vw;
+        }
+        .banner4 {
+            margin-top: -5.486vw;
+            height: 60.625vw;
+            width: 100%;
+        }
+        .banner4-text h1 {
+            padding-top: 12.4305vw;
+            font-size: 3.819vw;
+            letter-spacing: 0.20833vw;
+        }
+        .banner4-text p {
+            padding-top: 0.41667vw;
+            font-size: 1.45833vw;
+            letter-spacing: 0.0694vw;
+        }
+        .statistics {
+            padding: 4.861vw;
+        }
+        .circle{
+            height: 18.75vw;
+            width: 18.75vw;
+            border: 4px solid #b75a74;
+        }
+        .stat-number {
+            padding-left: 0.48611vw;
+            font-size: 4.44vw;
+            font-weight: 700;
+            letter-spacing: 0.278vw;
+        }
+        .stat-text {
+            font-size: 2vw;
+            margin: -1.90vw;
+        }
+        .stat-text2 {
+            font-size: 2.611vw;
+            margin: -1.667vw;
+            letter-spacing: 0.1389vw;
+        }
+        .stat-text3 {
+            font-size: 2vw;
+            margin: -1.855vw;
+            line-height: 2vw;
+        }
+        .banner5 {
+            margin-top: -5.20833vw;
+            height: 60.34722vw;
+            width: 100%;
+        }
+        
+        .banner5-img img {
+            height: 32.29167vw;
+            width: 32.29167vw;
+        }
+        .banner5-text{
+            margin-left: 8.33vw;
+        }
+        .banner5-text h1 {
+            margin-top: 21.5278vw;
+            font-size: 4.722vw;
+            letter-spacing: 0.34722vw;
+        }
+        .banner5-text p {
+            padding-right: 1.875vw;
+            margin-top: 2.0833vw;
+            font-size: 1.52778vw;
+            letter-spacing: 0.13889vw;
+        }
+        
+        .banner5-text .btn {
+            margin-top: 2.15278vw;
+            width: 20.28vw;
+            padding: 0.8vw .75rem;
+            font-size: 1.67vw;
+        }
+        .banner6 {
+            margin-top: -7.6389vw;
+            height: 63.1944vw;
+            width: 100%;
+        }
+        .banner6-text p {
+            margin-left: 11.8055vw;
+            font-size: 2.0833vw;
+            letter-spacing: 0.1389vw;
+        }
+        .banner6-signature {
+            padding-top: 1.3194vw;
+            margin-left: 11.8055vw;
+            font-size: 2.15278vw;
+        }
+        .banner7 {
+            margin-top: -3.75vw;
+            height: 65.833vw;
+            width: 100%;
+        }
+        .banner7-text h1 {
+            padding-top: 17.3611vw;
+            padding-bottom: 0.6944vw;
+            font-size: 4.5vw;
+            letter-spacing: 0.1vw;
+        }
+        .banner7-text p {
+            padding-top: 0.6944vw;
+            font-size: 2.01389vw;
+            letter-spacing: 0.06944vw;
+        }
+        
+        .frm {
+            margin-top: 4.1667vw;
+            width: 53.81944vw;
+        }
+        .input-group .form-control {
+            height: 4.51389vw;
+            padding: .375rem .75rem;
+            font-size: 1.6vw;
+            border-radius: 2.0833vw;
+        }
+        .subscribe-batn {
+            height: 4.51389vw;
+            width: 15.2778vw;
+            border-radius: 6.875vw;
+            margin-left: 41.667vw;
+            padding-top: 0.76389vw;
+        }
+        .subscribe-batn p {
+            font-size: 1.5278vw;
+            padding-top: 0.34722vw;
+        }
+        .banner8 {
+            margin-top: -8.875vw;
+            height: 48.611vw;
+            width: 100%;
+        }
+        
+        .footer .row{
+            padding: 15.9722vw 0 0 0;
+        }
+        .footer-text{
+            margin-left: 6.944vw;
+        }
+        .footer-text h3 {
+            font-size: 2.56944vw;
+            margin-bottom: 2.778vw;
+        }
+        .footer-text p {
+            font-size: 1.31944vw;
+            margin-bottom: 2.0833vw;
+            padding-right: 3.4722vw;
+        }
+        .about h3 {
+            margin-top: 0.0694vw;
+            margin-bottom: 2.43055vw;
+            font-size: 1.944vw;
+        }
+        .about ol{
+            line-height: 2.29167vw;
+            font-size: 1.3194vw;
+        }
+        .service h3{
+            margin-top: 0.0694vw;
+            margin-bottom: 2.43055vw;
+            font-size: 1.944vw;
+        }
+        .service ol{
+            line-height: 2.29167vw;
+            font-size: 1.31944vw;
+        }
+        .other h3{
+            margin-top: 0.06944vw;
+            margin-bottom: 2.43055vw;
+            font-size: 1.944vw;
+        }
+        .other ol{
+            line-height: 2.29167vw;
+            font-size: 1.31944vw;
+        }
+        .icon21 {
+            border-top-right-radius: 2em 5em;
+        }
+        .icon21 img{
+            width: 2.5vw;
+        }
+        .icon1{
+            margin-right: 10px;
+        }
+        .icon2{
+            margin-right: 10px;
+        }
+        .icon3{
+            margin-right: 10px;
+        }
+    
+ }
+@media (min-width: 1200px) and (max-width: 4000px) { 
+
+    .banner1{
+        height: 55.55vw;
+        width: 100%;
+    }
+    .logo img {
+        width: 6.55vw;
+        margin-left: 4.86vw;
+        margin-top: 3.47vw;
+    }
+    .nav-link {
+        padding: 1.7rem 4rem;
+        font-size: 1.3194vw;
+        padding-top: 5vw;
+        PADDING-LEFT: 0REM;
+    }
+    .nav-link:hover {
+        font-size: 1.3194vw;
+        transition: 5.0694vw !important;
+    }
+    .banner1-text{
+        margin-left: 4.86vw;
+    }
+    .banner1-text h1 {
+        margin-top: 7.638vw;
+        font-size: 4.722vw;
+        letter-spacing: 0.3472vw;
+    }
+    
+    .banner1-text p{
+        margin-top: 2.083vw;
+        font-size: 1.5278vw;
+        letter-spacing: 0.1389vw;
+    }
+    
+    .banner1-text .btn {
+        margin-top: 2.15278vw;
+        width: 20.28vw;
+        padding: 0.7rem .75rem;
+        font-size: 1.67vw;
+    }
+    
+    .banner2 {
+        margin-top: -2.01389vw;
+        height: 57.013vw;
+        width: 100%;
+    }
+    .banner2-text h1 {
+        padding-top: 7.847vw;
+        font-size: 3.8194vw;
+        letter-spacing: 0.2083vw;
+    }
+    .banner2-text p {
+        padding-top: 0.4167vw;
+        font-size: 1.4583vw;
+        letter-spacing: 0.0694vw;
+    }
+    .banner2-slide {
+        padding: 1.5278vw 9.0278vw;
+        width: 100%;
+    }
+    .slide-img{
+        padding-top: 2.78vw;
+    }
+    .slide-img img{
+        height: 16.67vw;
+        width: 16.67vw;
+        border-radius: 50%;
+    }
+    .slide-text h1 {
+        padding-top: 1.7361vw;
+        font-size: 1.8055vw;
+    }
+    .slide-text p {
+        padding-top: 0.5555vw;
+        font-size: 1.3194vw;
+        line-height: 1.7361vw;
+    }
+    .banner3 {
+        margin-top: -4.51389vw;
+        height: 59.861vw;
+        width: 100%;
+    }
+    .banner3-img img {
+        height: 32.29167vw;
+        width: 32.29167vw;
+    }
+    .banner3-text h1 {
+        margin-top: 20.90278vw;
+        font-size: 4.722vw;
+        letter-spacing: 0.34722vw;
+    }
+    .banner3-text p {
+        padding-right: 3.055vw;
+        margin-top: 2.083vw;
+        font-size: 1.5278vw;
+        letter-spacing: 0.1389vw;
+    }
+    
+    .banner3-text .btn {
+        margin-top: 2.1527vw;
+        width: 20.278vw;
+        padding: 0.8rem .75rem;
+        font-size: 1.667vw;
+        letter-spacing: 0.1389vw;
+    }
+    .banner4 {
+        margin-top: -5.486vw;
+        height: 60.625vw;
+        width: 100%;
+    }
+    .banner4-text h1 {
+        padding-top: 12.4305vw;
+        font-size: 3.819vw;
+        letter-spacing: 0.20833vw;
+    }
+    .banner4-text p {
+        padding-top: 0.41667vw;
+        font-size: 1.45833vw;
+        letter-spacing: 0.0694vw;
+    }
+    .statistics {
+        padding: 4.861vw;
+    }
+    .circle{
+        height: 18.75vw;
+        width: 18.75vw;
+        border: 4px solid #b75a74;
+    }
+    .stat-number {
+        padding-left: 0.48611vw;
+        font-size: 4.44vw;
+        font-weight: 700;
+        letter-spacing: 0.278vw;
+    }
+    .stat-text {
+        font-size: 2vw;
+        margin: -1.90vw;
+    }
+    .stat-text2 {
+        font-size: 2.611vw;
+        margin: -1.667vw;
+        letter-spacing: 0.1389vw;
+    }
+    .stat-text3 {
+        font-size: 2vw;
+        margin: -1.855vw;
+        line-height: 2vw;
+    }
+    .banner5 {
+        margin-top: -5.20833vw;
+        height: 60.34722vw;
+        width: 100%;
+    }
+    
+    .banner5-img img {
+        height: 32.29167vw;
+        width: 32.29167vw;
+    }
+    .banner5-text{
+        margin-left: 8.33vw;
+    }
+    .banner5-text h1 {
+        margin-top: 21.5278vw;
+        font-size: 4.722vw;
+        letter-spacing: 0.34722vw;
+    }
+    .banner5-text p {
+        padding-right: 1.875vw;
+        margin-top: 2.0833vw;
+        font-size: 1.52778vw;
+        letter-spacing: 0.13889vw;
+    }
+    
+    .banner5-text .btn {
+        margin-top: 2.152778vw;
+        width: 20.2778vw;
+        padding: 0.8rem .75rem;
+        font-size: 1.667vw;
+        letter-spacing: 0.06944vw;
+        border-radius: 60px;
+    }
+    .banner6 {
+        margin-top: -7.6389vw;
+        height: 63.1944vw;
+        width: 100%;
+    }
+    .banner6-text p {
+        margin-left: 11.8055vw;
+        font-size: 2.0833vw;
+        letter-spacing: 0.1389vw;
+    }
+    .banner6-signature {
+        padding-top: 1.3194vw;
+        margin-left: 11.8055vw;
+        font-size: 2.15278vw;
+    }
+    .banner7 {
+        margin-top: -3.75vw;
+        height: 65.833vw;
+        width: 100%;
+    }
+    .banner7-text h1 {
+        padding-top: 17.3611vw;
+        padding-bottom: 0.6944vw;
+        font-size: 4.5vw;
+        letter-spacing: 0.1vw;
+    }
+    .banner7-text p {
+        padding-top: 0.6944vw;
+        font-size: 2.01389vw;
+        letter-spacing: 0.06944vw;
+    }
+    
+    .frm {
+        margin-top: 4.1667vw;
+        width: 53.81944vw;
+    }
+    .input-group .form-control {
+        height: 4.51389vw;
+        padding: .375rem .75rem;
+        font-size: 1.6vw;
+        border-radius: 2.0833vw;
+    }
+    .subscribe-batn {
+        height: 4.51389vw;
+        width: 15.2778vw;
+        border-radius: 6.875vw;
+        margin-left: 41.667vw;
+        padding-top: 0.76389vw;
+    }
+    .subscribe-batn p {
+        font-size: 1.5278vw;
+        padding-top: 0.34722vw;
+    }
+    .banner8 {
+        margin-top: -8.875vw;
+        height: 48.611vw;
+        width: 100%;
+    }
+    
+    .footer .row{
+        padding: 15.9722vw 0 0 0;
+    }
+    .footer-text{
+        margin-left: 6.944vw;
+    }
+    .footer-text h3 {
+        font-size: 2.56944vw;
+        margin-bottom: 2.778vw;
+    }
+    .footer-text p {
+        font-size: 1.31944vw;
+        margin-bottom: 2.0833vw;
+        padding-right: 3.4722vw;
+    }
+    .about h3 {
+        margin-top: 0.0694vw;
+        margin-bottom: 2.43055vw;
+        font-size: 1.944vw;
+    }
+    .about ol{
+        line-height: 2.29167vw;
+        font-size: 1.3194vw;
+    }
+    .service h3{
+        margin-top: 0.0694vw;
+        margin-bottom: 2.43055vw;
+        font-size: 1.944vw;
+    }
+    .service ol{
+        line-height: 2.29167vw;
+        font-size: 1.31944vw;
+    }
+    .other h3{
+        margin-top: 0.06944vw;
+        margin-bottom: 2.43055vw;
+        font-size: 1.944vw;
+    }
+    .other ol{
+        line-height: 2.29167vw;
+        font-size: 1.31944vw;
+    }
+    .icon21 {
+        border-top-right-radius: 2em 5em;
+    }
+    .icon1{
+        margin-right: 10px;
+    }
+    .icon2{
+        margin-right: 10px;
+    }
+    .icon3{
+        margin-right: 10px;
+    }
+
+ }
+@media (min-width: 2400px) and (max-width: 4000px){
+    .nav-link {
+        padding: 1.7rem 4.5vw;
+        font-size: 1.3194vw;
+        padding-top: 5vw;
+        PADDING-LEFT: 0REM;
+    }
+    .banner1-text .btn {
+        margin-top: 2.15278vw;
+        width: 20.28vw;
+        padding: 0.9vw .75rem;
+        font-size: 1.67vw;
+        border-radius: 5vw;
+    }
+    .banner3-text .btn {
+        margin-top: 2.15278vw;
+        width: 20.28vw;
+        padding: 0.9vw .75rem;
+        font-size: 1.67vw;
+        border-radius: 5vw;
+    }
+    .stat-text {
+        font-size: 2.2vw;
+        margin: -1vw;
+    }
+    .stat-text2 {
+        font-size: 2.611vw;
+        margin: -1vw;
+        letter-spacing: 0.1389vw;
+    }
+    .stat-text3 {
+        font-size: 2.2vw;
+        margin: -1vw;
+        line-height: 2vw;
+    }
+    .banner5-text .btn {
+        margin-top: 2.15278vw;
+        width: 20.28vw;
+        padding: 0.9vw .75rem;
+        font-size: 1.67vw;
+        border-radius: 5vw;
+    }
+    .icon21 img{
+        width: 2.2vw;
+    }
+    .icon1{
+        margin-right: 0.5vw;
+    }
+    .icon2{
+        margin-right: 0.5vw;
+    }
+    .icon3{
+        margin-right: 0.5vw;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
